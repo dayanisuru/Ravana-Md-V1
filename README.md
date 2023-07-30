@@ -1,56 +1,56 @@
   <p align="center">  
-  <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com/main.jpg">
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
+  <a href="https://telegra.ph/file/02cdca0bb624f393a7311.jpg">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/02cdca0bb624f393a7311.jpg">
+    <h1 align="center"> Ravana-Md-V1 </h1>
   </a>
-</p>
-   
+</p>  
 <p align="center">
-
-  <a aria-label="Join our chats" href="https://www.youtube.com/@YourPenPal" target="_blank">
+  <a aria-label="Join our chats" href="[https://chat.whatsapp.com/JpTSogcUnpTHzpxyMWdeVY]" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
- 
-  <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/JpTSogcUnpTHzpxyMWdeVY](https://wa.me/94776312185?text=.menu)" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  
 </p>
 
- 
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{dayanisuru}/count.svg" alt="dayanisuru :: Visitor's Count" /></p>
 
-  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
- 
- ***<p align="center"> Support us by subscribing our channel </p>***
- 
-   <p align="center">  
-  <a href="https://youtu.be/It-Ak-aSx0c">
-    <img alt="secktor docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
-    <h1 align="center">Tap on above Image</h1>
-  </a>
+<p align="center">
+   <a href="https://github.com/dayanisuru"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=Ravana+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
- 
- 
-- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
-## Deployment Methods
+
 ---
-1. ***Get [SESSION-ID](https://sampandey00011-af12d376b8d4.herokuapp.com/id) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
-2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
 
+[![License: GPL-3](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
-***Free Mongodb URI,LOL***
-```
-mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority
-```
-3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayanisuru%2FRavana-Md-V1&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![forks](https://img.shields.io/github/forks/dayanisuru/Ravana-Md-V1?label=Forks&style=social)
+
+![stars](https://img.shields.io/github/stars/dayanisuru/Ravana-Md-V1?style=social)
+
+  
+
+ ## DEPLOYMENT METHODS
+
+  
+
+●. ***[SCAN QR CODE](https://replit.com/@SLisuwabroo/RAVANA-MD-BOT#index.js)***
+
+●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login) or [railway.app](https://railway.app).***
+
+●.  ***Click [FORK](https://github.com/dayanisuru/Ravana-Md-V1/fork)***
+
+---
+
 ## Heroku Deployment Method
-4.  ***Deploy on [Heroku](https://sampandey00011-af12d376b8d4.herokuapp.com/heroku)***
-## Koyeb Deployment Method
-5. ***[Deploy on Koyeb](https://sampandey00011-af12d376b8d4.herokuapp.com/koyeb) and get API KEY from [here.](https://app.koyeb.com/settings/api)*** .
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/dayanisuru/Ravana-Md-V1&template=https://github.com/dayanisuru/Ravana-Md-V1.git)
 
-6. ***Also Deploy on [Replit]( https://repl.it/github/SamPandey001/Secktor-Md)***
+## Replit Deployment Method
+[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/dayanisuru/Ravana-Md-V1)
 
 If ***RUN*** Doesn't work, paste these commands in repl shell
 
@@ -73,24 +73,37 @@ Copy the JSON down and paste in repl then fill the vars
 }
 ```
 
-7.  ***[Deploy on Railway](https://sampandey00011-af12d376b8d4.herokuapp.com/railway)***
+## Koyeb Deployment Method
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/dayanisuru/Ravana-Md-V1&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94767453646&env[MONGODB_URI]&&env[OWNER_NAME]=ameesha&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://i.ibb.co/NF7FbF2/20230604-132133.png&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=SI&env[PACK_INFO]=ameesha;madebyravanamd&name=Ravana-md&env[KOYEB_NAME]=Ravana-md&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
 
-8. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
+## Uffizzi Deployment Method
+[![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
+
+## Mongenius Deployment Method
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
+
+## Railway Deployment Method
+[![Deploy on Railway](https://railway.app/button.svg)]()  Coming Soon.....
+
+## Okteto Deployment Method
+[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
+
+```
+Login with your github
+Click Launch Dev Environment
+Choose your repo
+```
+
+
   
-9. ***Deploy in [Linux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)***
 
-10. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
----
-11. More info about [Secktor](https://sampandey00011-af12d376b8d4.herokuapp.com/).
-12. Deploy tutorial [Youtube Video](https://sampandey00011-af12d376b8d4.herokuapp.com/youtube).
+ ## [Deploy on VPS or PC.](https://github.com/dayanisuru/Ravana-Md-V1/blob/main/deploy-on-vps.md)
 
-13. SUPPORT GROUP: <a href="https://chat.whatsapp.com/DG86OkvmerHKHJjkE5X2Wv"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+ 
 
-- Star ⭐ repo if you like Secktor.
-### Thanks To
 
-- [Yusuf Usta](https://github.com/yusufusta) for Ideas
+ ---
 
 ## License
 
-The Secktor is made available under the [GPL-3 license](https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE). 
+The Ravana-md is made available under the [GPL-3 license](https://github.com/dayanisuru/Ravana-Md-V1/blob/main/LICENCE). 
